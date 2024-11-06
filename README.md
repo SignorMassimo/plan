@@ -41,10 +41,10 @@
     - `created_at`: Timestamp
 
 # BACK-END API
-Framework: NestJS
-Language: Typescript
+- Framework: NestJS
+- Language: Typescript
 
-Endpoints:
+## Endpoints:
 ### Authentication
 - **/api/users/authentication**
     - **Request**
