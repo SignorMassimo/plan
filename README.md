@@ -88,7 +88,7 @@
         - `method`: POST
         - **Body**:
             - `token`: String
-            - `findUserData?`:
+            - `findUserData`?:
                 - `id?`: Int
                 - `userID?`: String
                 - `username?`: String
@@ -156,7 +156,7 @@
         - `method`: POST
         - **Body**:
             - `token`: String
-            - `findMessageData?`:
+            - `findMessageData`?:
                 - `id?`: Int
                 - `messageID?`: String
                 - `chatID?`: String
@@ -217,7 +217,7 @@
         - `method`: POST
         - **Body**:
             - `token`: String
-            - `findCompanyData?`:
+            - `findCompanyData`?:
                 - `id?`: Int
                 - `companyID?`: String
                 - `name?`: String
