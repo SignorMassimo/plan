@@ -42,9 +42,9 @@
 
 # BACK-END API
 Framework: NestJS
+Language: Typescript
 
 Endpoints:
-
 ### Authentication
 - **/api/users/authentication**
     - **Request**
